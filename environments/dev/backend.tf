@@ -15,7 +15,7 @@
 
 terraform {
   backend "gcs" {
-    bucket = "yougo-projects-tfstate1"
+    bucket = "iac-kubernetes-project"
     prefix = "env/dev"
   }
 }
