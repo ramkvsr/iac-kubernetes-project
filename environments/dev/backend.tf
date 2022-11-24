@@ -16,6 +16,6 @@
 terraform {
   backend "gcs" {
     bucket = "iac-kubernetes-project"
-    prefix = "env/dev"
+    prefix = "env/prod"
   }
 }
