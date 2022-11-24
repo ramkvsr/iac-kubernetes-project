@@ -1,2 +1,2 @@
-project_id = "rams-my-project-19529"
+project_id = "ram-prod-369601"
 region     = "us-central1"
