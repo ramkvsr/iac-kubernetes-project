@@ -1,2 +1,2 @@
 project_id = "resonant-cairn-369601"
-region     = "US-West1"
+region     = "us-central1"
